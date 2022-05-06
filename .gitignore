@@ -1,0 +1,4 @@
+# This file is used to ignore files which are generated
+# ----------------------------------------------------------------------------
+web-api/node_modules/
+web-app/node_modules/
